@@ -1,6 +1,6 @@
 **Objectives(Problem Statement):**
 
-    Disease detection is a critical task for farmers and also many plants disease cannot be identified with our naked eyes. They follow shortcuts of using chemical pesticides which give side effects to consumable foods. 
+   Disease detection is a critical task for farmers and also many plants disease cannot be identified with our naked eyes. They follow shortcuts of using chemical pesticides which give side effects to consumable foods. 
     Protecting crops before the pest attack is needed for the current situation which makes life healthier for consumers and a better yield for the farmers.  Monitoring every single crop couldn’t be done by a single farmer but with the help of developing technology like artificial intelligence and expert knowledge from various fields, it’s possible.
 _Why to choose Tomatoes?_
     Tomatoes are one of the most widely cultivated food crops throughout the world due to its high nutritive value. It occupies the fourth level between world vegetables and it affects the production by 30 -50 percent
@@ -11,7 +11,7 @@ _Why to choose Tomatoes?_
 **Problem Impact:**
     Emergence of accurate technique in the field of leaf based image classification has shown better results. So, we have decided to help the farmers by distinguishing the diseases and to provide a better solution. Most of the farmers are not educated and the information must reach them in a correct manner and also for their understanding ,language does matter the most. Detection of plant disease through some automatic technique is beneficial as it reduces a large work of monitoring in big farms of crops, and at very early stage itself it detects the symptoms of diseases i.e. when they appear on plant leaves. This also minimizes the use of agrochemical and ensures both quality and quantity of agricultural products.
 
-_**Our solution_**
+OUR SOLUTION:
 
 **Need for innovation:**
     Protecting crops before the pest attack is needed for the current situation which makes life healthier for consumers and a better yield for the farmers.  Monitoring every single crop couldn’t be done by a single farmer but with the help of developing technology like artificial intelligence and expert knowledge from various fields, it’s possible. 
