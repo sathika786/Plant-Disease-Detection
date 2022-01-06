@@ -6,7 +6,7 @@ _Why to choose Tomatoes?_
 **Feasibility & Scalability:**
       Agriculture monitoring is the much needed reducing human intervention in practice. Day by day demand for food is reaching its high peak and without the execution of the modern methods in agriculture, it is very hard to achieve the increasing demand. Agriculture monitoring is the prime concern as it helps to reduce labor and increase production. Artificial Intelligence has been implemented in crop selection and to help the farmer in the selection of the fertilizers. With the help of the database which the user has gathered and specified to the system, the machine communicates among themselves to decide which crop is suitable for harvesting and also the fertilizers which promote the maximum growth. Deep learning has a wide reach and its application in the industry has received tremendous advancement. Using deep learning is an added advantage over machine learning and it adds depth to machine learning. 
 
-**##Problem Impact:**
+**Problem Impact:**
     Emergence of accurate technique in the field of leaf based image classification has shown better results. So, we have decided to help the farmers by distinguishing the diseases and to provide a better solution. Most of the farmers are not educated and the information must reach them in a correct manner and also for their understanding ,language does matter the most. Detection of plant disease through some automatic technique is beneficial as it reduces a large work of monitoring in big farms of crops, and at very early stage itself it detects the symptoms of diseases i.e. when they appear on plant leaves. This also minimizes the use of agrochemical and ensures both quality and quantity of agricultural products.
 
 _**Our solution_**
